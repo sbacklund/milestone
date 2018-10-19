@@ -1,0 +1,88 @@
+@charset "ISO-8859-1";
+.container {
+
+	
+    }
+ body {
+ 	background-image: url("loginbackground.jpg");
+ 	color: white;
+ 		
+ }
+ .ontop{
+ 	font: Monospace;
+ 	letter-spacing: 3px;
+ 	color: #a50303;
+ 	text-align: center;
+ 	margin: auto;
+ 	opacity: 1;
+ 	margin-top: 2%;
+    padding-top: 1px;
+    padding-right: 2%;
+    padding-bottom:2%;
+    padding-left: 2%;
+   	margin-top:5px;
+ 	width:100%;
+ 	position: relative;
+  	top: 3.0em;
+  	z-index:100;
+ }
+ h1{
+ 
+ 	
+ }
+ .backing {
+    border: 2px solid #a50303;
+    border-radius: 2px;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom:2%;
+    padding-left: 2%;
+   	background-color: black;
+   	margin-top:2%;
+ 	opacity: 0.6;
+ 	width:100%;
+ 	margin-top: 2%;
+ 	
+ 
+ }
+ 
+ .container {
+ 	border: 2px solid #a50303;
+    border-radius: 5px;
+    padding: 5px;
+   	background-color: black;
+   	width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+ 
+ }
+ 
+  h2{
+ 	font: Monospace;
+ 	letter-spacing: 3px;
+ 	color: #a50303;
+ 	text-align: center;
+ 	margin: auto;
+ }
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    padding: 12px;
+    background-color: #a50303;
+    color: white;
+    
+  
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #a50303;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    
+    cursor: pointer;
+}

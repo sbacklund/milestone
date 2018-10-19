@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+body{
+	background-color:white;
+ 	color: Black;
+	
+}
+h1{
+	border: 2px solid #a50303;
+	margin: 1% 20% 1% 20%;
+	text-align: center;
+	letter-spacing: 3px;
+	font:monospace;
+}
+div{
+	margin: 1% 20% 1% 20%;
+	
+}
+.form-container{
+	font: monospace;
+	font-size: 16px;
+	background-color:#a50303;
+	border: 2px solid #000000;
+    border-radius: 5px;  
+	text-decoration: none;
+	text-align: center;
+	padding: 1% 7px 1% 7px;
+	
+}
+.form-container1{
+	font: monospace;
+	font-size: 16px;
+	background-color:#ad2e05;
+	border: 2px solid #000000;
+    border-radius: 5px;  
+	text-decoration: none;
+	text-align: center;
+	padding: 1% 7px 1% 7px;
+	
+}
+.container {
+	text-align:center;
+}
+
+.menu-item{
+	font: monospace;
+	font-size: 24px;
+	background-color:black;
+	border: 1px inset #a50303;
+	text-decoration: none;
+	text-align: center;
+	padding: 1% 7px 1% 7px;
+}
+a {
+    color:white;
+    text-decoration: none;
+    text-align: center;
+}
